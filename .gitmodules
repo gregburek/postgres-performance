@@ -1,0 +1,3 @@
+[submodule "vendor/pgbench-tools"]
+	path = vendor/pgbench-tools
+	url = https://github.com/gregburek/pgbench-tools.git
